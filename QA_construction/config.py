@@ -1,0 +1,9 @@
+temperature_value = 0.85
+frequency_penalty_value = 0.1
+personal_base = "https://api.chatanywhere.tech/v1"
+personal_key = "your api"
+default_gpt_model = "gpt-4o-mini"
+max_try_num = 15
+LOG = False
+DEBUG = False
+max_thread_num = 15
